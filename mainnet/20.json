@@ -178,23 +178,5 @@
     "address": "0x85bDDd01C76Cb49BD35b7C32A8383D31bc97A6FC",
     "image": "https://static.cube.store/markets/mave/thumbnail.jpg",
     "singleNftDomain": "https://api.fncy.world/tankers/markets/mave/nfts/0x85bddd01c76cb49bd35b7c32a8383d31bc97a6fc"
-  },
-  {
-    "id": 21,
-    "name": "MAVE NFT",
-    "symbol": "MAVE",
-    "description": "Ride the new Wave of MAVE: in their search of emotions with our exclusive NFTs",
-    "address": "0x85bDDd01C76Cb49BD35b7C32A8383D31bc97A6FC",
-    "image": "https://static.cube.store/markets/mave/thumbnail.jpg",
-    "singleNftDomain": "https://api.fncy.world/tankers/markets/mave/nfts/0x85bddd01c76cb49bd35b7c32a8383d31bc97a6fc"
-  },
-  {
-    "id": 22,
-    "name": "MAVE NFT",
-    "symbol": "MAVE",
-    "description": "Ride the new Wave of MAVE: in their search of emotions with our exclusive NFTs",
-    "address": "0x85bDDd01C76Cb49BD35b7C32A8383D31bc97A6FC",
-    "image": "https://static.cube.store/markets/mave/thumbnail.jpg",
-    "singleNftDomain": "https://api.fncy.world/tankers/markets/mave/nfts/0x85bddd01c76cb49bd35b7c32a8383d31bc97a6fc"
   }
 ]
