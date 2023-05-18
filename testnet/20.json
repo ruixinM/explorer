@@ -6,6 +6,6 @@
       "description": "My tokens..",
       "address": "0x90c223bE745BD56A33B777a7629c3bcFF8DEA51d",
       "image": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=025",
-      "chainType":"bnb"
+      "tokenType":["bnb","Cross-Chain"]
     }
   ]
