@@ -1,14 +1,1 @@
-[
-  {
-    "id": 1,
-    "name": "AAA",
-    "symbol": "BBB",
-    "description": "CCC",
-    "address": "0x9B15d6e1b66E0FE69cC7bdA24e7273a077146bF7",
-    "image": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=025",
-    "tokenType": [
-      "btc",
-      "Cross-Chain"
-    ]
-  }
-]
+[]
