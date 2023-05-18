@@ -1,1 +1,11 @@
-[]
+[
+    {
+      "id": 1,
+      "name": "IUFC NFT123",
+      "symbol": "IUFC",
+      "description": "NFT series for K-Leagues's Incheon United F.C. Special benefits are provided for the IUFC fans.",
+      "address": "0x5f29aa5c4125038819dcde1405Ca1b602306d4E9",
+      "image": "https://static.cube.store/markets/incheon-united/thumbnail.png",
+      "singleNftDomain": "https://api.fncy.world/tankers/markets/incheon-united/nfts/0x5f29aa5c4125038819dcde1405ca1b602306d4e9"
+    }
+]
