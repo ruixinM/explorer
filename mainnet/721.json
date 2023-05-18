@@ -25,14 +25,5 @@
     "address": "0x85bDDd01C76Cb49BD35b7C32A8383D31bc97A6FC",
     "image": "https://static.cube.store/markets/mave/thumbnail.jpg",
     "singleNftDomain": "https://api.fncy.world/tankers/markets/mave/nfts/0x85bddd01c76cb49bd35b7c32a8383d31bc97a6fc"
-  },
-  {
-    "id": 4,
-    "name": "AAA",
-    "symbol": "BBB",
-    "description": "CCC",
-    "address": "0x6450f64b75682f9e5995dfb397be777150cca7c7",
-    "image": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=025",
-    "singleNftDomain": "https://api.fncy.world/tankers/markets/irris/nfts"
   }
 ]
