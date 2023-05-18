@@ -16,6 +16,7 @@ If you wish to add your ERC20 token to FNCYScan, follow the instructions below:
        "description": text,
        "address": address hash,
        "image": link to your token image,
+       "tokenType":  wrapped & pegged token or cross chain token
    }
    ```
 
@@ -27,6 +28,7 @@ If you wish to add your ERC20 token to FNCYScan, follow the instructions below:
    - `description`: a brief description of your token
    - `address`: the address hash of your token
    - `image`: a link to your token image
+   - `tokenType`: wrapped & pegged token or cross chain token, can be null;
 
 3. Submit your PR to FNCYScan.
 
@@ -40,6 +42,7 @@ Here is an example of how to submit a PR for adding your ERC20 token to FNCYScan
   "description": "BUSD is a 1:1 USD-backed stablecoin approved by the New York State Department of Financial Services (NYDFS), issued in partnership with Paxos.",
   "address": "0x0facd73fc3e354b688323e9bcd1637d01ed94c4e",
   "image": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=025",
+  "tokenType":["Binance Peg","Cross-Chain"]
 }
 ```
 
